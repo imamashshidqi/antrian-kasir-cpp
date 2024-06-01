@@ -1,0 +1,13 @@
+Antrian Ke-1
+Nama Pembeli: Imam Ash Shidqi
+
+Isi Keranjang:
+Susu Rp.5000
+oti Rp.5000
+
+Total Harga Belanja Rp.10000
+Uang yg di Setor Rp.10000
+Uang Kembalian Rp.0
+
+-----------------
+
